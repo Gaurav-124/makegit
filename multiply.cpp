@@ -5,5 +5,5 @@ int main()
 {
     int a=10;
     int b=20;
-    cout<<"sum of a and b is "<<a+b<<endl;
+    cout<<"multiply of a and b is "<<a*b<<endl;
 }
